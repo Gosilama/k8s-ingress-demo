@@ -1,0 +1,3 @@
+Ingress demo
+Cluster - minikube
+Service - k8s dashboard
